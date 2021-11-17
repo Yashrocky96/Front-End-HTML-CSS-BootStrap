@@ -1,0 +1,34 @@
+body {
+  background-color: snow;
+}
+header {
+  color: teal;
+}
+article {
+  background-color: honeydew;
+}
+.book-title1 {
+  color: cadetblue;
+}
+.book-author {
+  color: darkgray;
+}
+p {
+  color: gray;
+}
+#author {
+  color: blueviolet;
+}
+
+.link-item:link {
+  color: black;
+}
+.link-item:visited {
+  color: blue;
+}
+.link-item:hover {
+  color: cadetblue;
+}
+.link-item:active {
+  color: pink;
+}

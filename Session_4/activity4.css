@@ -1,0 +1,21 @@
+main {
+  background-color: red;
+}
+
+.main {
+  background-color: blue;
+}
+
+#main {
+  background-color: green;
+}
+
+.parent {
+  height: 256px;
+  background-color: rgb(255, 52, 33, 0.5);
+}
+
+.child {
+  height: 128px;
+  background-color: rgb(15, 107, 255, 0.3);
+}
