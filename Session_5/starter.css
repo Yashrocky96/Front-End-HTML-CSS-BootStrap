@@ -1,0 +1,58 @@
+body {
+  background-color: snow;
+  font-family: "IBM Plex Sans", "Seouge UI", sans-serif, serif;
+}
+
+h3 {
+  font-family: "IBM Plex Sans", "Seouge UI", sans-serif, serif;
+  font-size: 1rem;
+}
+
+.main-heading {
+  color: indigo;
+  font-size: 2.5rem;
+}
+.main-subtitle {
+  color: gray;
+  font-size: 1.25rem;
+}
+.team-member {
+  width: 16rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 2px transparent outset;
+}
+.team-member:hover {
+  border: 2px #414141 outset;
+}
+.team-member p {
+  opacity: 0.8;
+}
+#anna {
+  background-color: darkcyan;
+  color: beige;
+}
+#anna h2,
+#anna h3 {
+  color: honeydew;
+}
+#harry {
+  background-color: cornsilk;
+}
+#harry h2,
+#harry h3 {
+  color: darkslategray;
+}
+#sofia {
+  background-color: dodgerblue;
+  color: lightcyan;
+}
+#sofia h2,
+#sofia h3 {
+  color: navy;
+}
+
+.profile-img {
+  padding: 0.5rem;
+  padding-bottom: 0;
+}
