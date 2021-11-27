@@ -4,7 +4,7 @@
   width: 256px;
   height: 256px;
   /* Position properties below this line */
-
+  position: relative;
   /* Position properties above this line */
 }
 
@@ -13,7 +13,8 @@
   height: 2rem;
   background-color: #ff8a80;
   /* Position properties below this line */
-
+  position: absolute;
+  right: 0;
   /* Position properties above this line */
 }
 
@@ -22,7 +23,8 @@
   height: 2rem;
   background-color: #69f0ae;
   /* Position properties below this line */
-
+  position: absolute;
+  bottom: 0;
   /* Position properties above this line */
 }
 
@@ -31,6 +33,8 @@
   height: 2rem;
   background-color: #ffee58;
   /* Position properties below this line */
-
+  position: absolute;
+  right: 0;
+  bottom: 0;
   /* Position properties above this line */
 }
